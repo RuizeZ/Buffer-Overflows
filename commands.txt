@@ -1,2 +1,3 @@
-b *0x400db1
+#b *0x400db1
+#b *0x400da0
 r -u rvz5108 < exploit.bytes
